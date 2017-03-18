@@ -1,0 +1,28 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://72.29.70.19:8036/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://72.29.70.19:8036/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "La Maquina 97.7 FM, Xalapa, Veracruz",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s91315q.png",
+        "time": "",
+        "title": "La Maquina 97.7 FM, Xalapa, Veracruz"
+    }
+]}
+
+
+
+
