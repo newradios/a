@@ -2,14 +2,14 @@
     {
         "streams": [
             {
-                "playlist": ["http://198.50.152.227:8010/;"],
+                "playlist": ["http://198.50.152.227:8010/"],
                 "bitrate": 24,
                 "metaint": true,
                 "live": true,
                 "url_m3u": ""
             },
             {
-                "playlist": ["http://198.50.152.227:8010/;"],
+                "playlist": ["http://198.50.152.227:8010/"],
                 "bitrate": 128,
                 "metaint": true,
                 "live": true,
