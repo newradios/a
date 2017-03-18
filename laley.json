@@ -1,0 +1,28 @@
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://s10.voscast.com:8760/"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://s10.voscast.com:8760/"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio La Ley",
+        "logo": "http://cdn-radiotime-logos.tunein.com/s92074q.png",
+        "time": "",
+        "title": "Radio La Ley "
+    }
+]}
+
+
+
+
